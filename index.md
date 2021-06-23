@@ -1,6 +1,6 @@
-我的个人主页
+我的个人主页(https://github.com/songxinai/songxinai.github.io/edit/main/index.md)
 
-You can use the [editor on GitHub](https://github.com/songxinai/songxinai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+个人简介：
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
